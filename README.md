@@ -11,4 +11,4 @@
 - Titanic EDA
 - House Price Prediction
 
-📫 Connect: [www.linkedin.com/in/aron-bilu-40bab9386]
+📫 Connect: [LinkedIn](www.linkedin.com/in/aron-bilu-40bab9386)
