@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Aron J Biju 👋
 
-<!--
-**ARON-AJB/ARON-AJB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 1st Year | Kerala, India
 
-Here are some ideas to get you started:
+🌱 Currently learning: Python, SQL, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 Certificates:
+- ✅ Kaggle Python — June 2026
+
+🔨 Projects (coming soon):
+- Titanic EDA
+- House Price Prediction
+
+📫 Connect: [www.linkedin.com/in/aron-bilu-40bab9386]
