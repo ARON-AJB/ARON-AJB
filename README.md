@@ -7,6 +7,7 @@
 🏆 Certificates:
 - ✅ Kaggle Python — June 2026
 - ✅ Kaggle SQL — June 2026
+- ✅ Google Introduction to AI (Coursera) — June 2026
 
 🔨 Projects (coming soon):
 - Titanic EDA
