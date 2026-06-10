@@ -8,6 +8,9 @@
 - ✅ Kaggle Python — June 2026
 - ✅ Kaggle SQL — June 2026
 - ✅ Google Introduction to AI (Coursera) — June 2026
+- ✅ Google Maximize Productivity with AI Tools (Coursera) — June 2026
+💼 Experience
+- 🔐 Cybersecurity Intern — 20hrs — [TECHBYHEART]
 
 🔨 Projects (coming soon):
 - Titanic EDA
