@@ -1,4 +1,4 @@
-# Hi, I'm Aron J Biju 👋
+# Hi, I'm Aron J Bilu 👋
 
 🎓 CSE Student | 1st Year | Kerala, India
 
